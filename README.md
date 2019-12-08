@@ -7,8 +7,8 @@ Ensemble.m - a number of decoy subsets with the same size as actives are sampled
 
 ThreeClassifier.m - Each subset is trained by three algorithm: SVM, decision tree and Fisher linear discriminant.
 
-CalculatedAUC.m - Calculate the AUC for the validation set and test set.
-
 myKmean.s- the k-means algorithm used for sampling the decoy subsets
 
 pca_row.m - the pca algorithm for the dimension reduction.
+
+CalculatedAUC.m - Calculate the AUC for the validation set and test set.
